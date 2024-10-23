@@ -3,7 +3,7 @@
 Exemplo de API Rest com Python
 
 ## Para executar localmente
-Crie um ambiente virtal Python
+Crie um ambiente virtual Python
 ```bash
 python3 -m venv venv
 ```
